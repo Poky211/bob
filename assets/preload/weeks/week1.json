@@ -1,22 +1,48 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "Bob Week",
+	"hideFreeplay": false,
+	"weekBackground": "blank",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"startUnlocked": true,
 	"weekCharacters": [
-		"dad",
+		"bob",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Sunshine",
+			"bob",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Withered",
+			"angrybob",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Run",
+			"hellbob",
+			[
+				20,
+				0,
+				0
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Bob Week"
 }
